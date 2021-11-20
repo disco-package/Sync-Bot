@@ -1,0 +1,26 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "19d4a99d-128b-49f7-af17-b279a250f993",
+        "line": 37,
+        "version": 24,
+        "index": 1691
+      },
+      {
+        "id": "3339c08f-89bf-46c2-9562-de6342109f22",
+        "line": 37,
+        "version": 24,
+        "index": 1691
+      }
+    ],
+    "src/eventos/messageCreate.js": [
+      {
+        "id": "ba40874c-ff5e-4501-ae3c-c9a95a6e72cf",
+        "line": 26,
+        "version": 91,
+        "index": 1080
+      }
+    ]
+  }
+}
